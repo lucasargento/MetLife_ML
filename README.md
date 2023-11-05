@@ -26,6 +26,8 @@ The best model of each run is stored as best_model.pkl
 
 The last one is the recommended approach since the docker container already has MySQL installed on it. If you want to run this code in your local machine, you will need to install MySQL as well and enable the service.
 
+After you build and run your docker image, you should see an output like this indicating that the pipeline run correctly:
 
+![Alt text](image.png)
 
 
